@@ -4,10 +4,10 @@
 > I contributed as part of the development team.
 
 ## My Contributions
-- Designed and implemented the database for all roles (Accountant, Assistant, Doctor, Patient).  
-- Built all role-specific Windows Forms pages (front-end).  
+- Designed and implemented the database for this roles (Accountant, Assistant, Doctor, Patient).  
+- Built this role-specific Windows Forms pages (front-end).  
 - Developed CRUD operations and connected front-end to the database (back-end).  
-- Updated forms for Accountant, Assistant, Doctor, and Patient roles (commits: Dec 11–15, 2023).  
+- Updated forms for Accountant, Assistant, Doctor, and Patient roles.
 
 ## Team
 ![Team Member 1](https://github.com/mrXrobot26/Radiology-Center-v3/assets/118698085/6b59bee1-9d7e-40ce-a906-f12705ff8b29)
